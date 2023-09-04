@@ -1,0 +1,22 @@
+PROJETO DE DESENVOLVIMENTO DE SOFTWARE
+
+1. Elaborar um cadastro (10 'itens') - Linguagem C (Interface de Texto)
+   Fornecedores
+   Clientes
+   Alunos
+   Produtos
+   etc.
+
+1.1. Variáveis escalares
+1.2. Vetores / Matrizes / 'Structs'
+
+2.1. Fazer a modelagem das entidades (DER)
+     Entidades, Relacionamento e Atributos
+     Mínimo 5 (cinco) entidades
+2.2. Criar as tabelas (com Chaves Primárias e Estrangeiras) e inserir os dados
+     Script compatível com o Oracle Database
+     ou MySQL
+
+
+
+
